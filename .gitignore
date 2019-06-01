@@ -37,7 +37,4 @@ buildNumber.properties
 hs_err_pid*
 .idea/
 RestAssuredAPI_Employee_Project.iml
-pom.xml
-src/
-test-output/
-testng.xml
+
